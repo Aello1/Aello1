@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Eren 👋
 
-<!--
-**Aello1/Aello1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught backend developer based in Bursa, Turkey.
+I build APIs, automation tools, and AI-powered systems.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL, Prisma, Mongodb
+- **AI/ML:** Hugging Face, Groq, LLM integration
+- **Tools:** Git, Docker (learning), Swagger
+
+## 🚀 What I'm working on
+
+Building a production-ready AI content moderation API with multi-provider architecture and context-aware analysis.
